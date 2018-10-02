@@ -12,3 +12,7 @@ HTML code
      Hello World
   </body>
 </html>
+
+You can also check with python code as follows : 
+print("hello world") #for python 3.X
+print "hello world" #for python 2.x
